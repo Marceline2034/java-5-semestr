@@ -11,7 +11,7 @@ public class Lab32 {
 
     public void enterArray() {                      //метод заполнения массива
         Scanner in = new Scanner(System.in);
-        System.out.println("Количество элементов массива: ");
+        System.out.print("Количество элементов массива: ");
         int N = in.nextInt();              //количество элементов
         String[] word = new String[N];     // массив будущих символов
 

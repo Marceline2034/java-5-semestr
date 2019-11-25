@@ -15,7 +15,7 @@ public class Lab31 {
             y = s / x;
             System.out.println("это не выполнится при прерывании!");
         } catch (ArithmeticException e) {
-            System.out.println("X не может быть равен нулю!");
+            System.out.println("ERROR!!!  X не может быть равен нулю!");
             x = 0;
             while (x == 0) {
                 System.out.println("Введите новый параметр: ");
