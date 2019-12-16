@@ -1,0 +1,121 @@
+1) Для чего используется условный оператор if?
+Для построения логического ветвления
+Чтобы складывать числа
+Для проверки логических переменных
+Чтобы умножить числа
+Для построения логического ветвления
+2) Сколько ветвей решений создает оператор switch?
+1
+2 
+Сколько угодно
+3
+сколько угодно
+3) Сколько ветвей решений создает оператор if?
+1
+2
+3 
+Нисколько
+2
+4) Какой цикл повторяет свое «тело», пока проверочное выражение истинно?
+Цикл if-else
+Цикл do-while
+Цикл for
+Цикл while 
+Цикл while
+5) Какой цикл называют с постусловием?
+Цикл if-else
+Цикл do-while
+Цикл for
+Цикл while 
+Цикл do-while 
+6) в каком цикле есть счетчик?
+Цикл if-else
+Цикл do-while
+Цикл for
+Цикл while 
+Цикл for
+7) Для чего нужен оператор break?
+Чтобы начать цикл switch
+Для прерывания выполнения программы
+Чтобы объявить переменную
+Для прерывания выполнения программы на уровне блока
+Для прерывания выполнения программы на уровне блока
+8) Can abstract class have constructors in Java?
+* No, only non-abstract class have constructors
+* Yes, abstract class can have constructors
+* No, any class in Java haven't constructors 
+* Yes, but absract class must have descendant for it
+* Yes, abstract class can have constructors
+9) Can we declare abstract methods as static?
+* No, abstract methods can not be static
+* No, java haven't static methods
+* Yes, abstract methods can be static
+* Yes, but only if we use our imagination
+* No, abstract methods can not be static
+10) Какой опервтор?
+* Class, which can have a instance
+* Class, which can't have a instance 
+* Class without fields and methods
+* Design pattern
+* Class, which can't have a instance 
+11) What is an abstract method?
+* Method without functionality
+* Function in java.io.abstract 
+* Abstract fields
+* Function in any class
+* Method without functionality
+12) Where the abstract method is correctly described?
+* StringBuilder abstract = new StringBuilder();
+* public abstract void display;
+* private void abstractic; 
+* System.out.println("Abstrast method");
+* public abstract void display;
+13) Can abstract class contains main method in Java?
+* No, because main method can be only in non-abstract class
+* Yes, but main method must have a return value
+* Yes, abstract class can contain main method
+* No, because main method can be use only in Kotlin
+* Yes, abstract class can contain main method
+14) Abstract method can be a...
+* Only private
+* Private, public, protected
+* Private, public
+* Public, protected
+* Public, protected
+15) Зачем нужен оператор return?
+Для выхода из метода, причем управление передается коду, который вызвал этот метод
+Чтобы вернуться на строку назад в коде
+Чтобы перейти на следующий метод
+Чтобы вернуть значение переменной
+Для выхода из метода, управление передается коду, который вызвал этот метод
+16) Can we declare abstract methods as static?
+* No, abstract methods can not be static
+* No, java haven't static methods
+* Yes, abstract methods can be static
+* Yes, but only if we use our imagination
+* No, abstract methods can not be static
+17) Can a class contain an abstract class as a member?
+* No, because abstract class is fiction of sorcerers-scientists
+* No, because abstract class can't be described
+* No, a class can't have abstract class as it’s member
+* Yes, a class can have abstract class as it’s member
+* Yes, a class can have abstract class as it’s member
+18) Can abstract class be final in Java?
+* Yes, because abstract class have a instance
+* Yes, because abstract class haven't a instance
+* No, because abstract class haven't a instance
+* No, because abstract class have a instance
+* No, because abstract class haven't a instance
+19) Abstract method can be a...
+* Only private
+* Private, public, protected
+* Private, public
+* Public, protected
+* Public, protected
+20) What is Polymorphism in Java?
+* An object which has abstract method
+* Multiple inheritance
+* Hiding under a different name
+* The feature of deciding which overridden method will be used at the run time of a program
+* The feature of deciding which overridden method will be used at the run time of a program
+
